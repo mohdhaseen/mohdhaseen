@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohdhaseen
-- 👀 I’m interested in diffent programming concepts like Data Structure, multithreading and kotlin programming. 
-- 🌱 I’m currently learning Data Structure, multithreading and kotlin programming.
+- 👀 I like programming and software development.
+- 🌱 I’m currently working on android applications. 
 - 💞️ I’m looking to collaborate on a paid andorid project
 - 📫 How to reach me: mohdhaseen99@gmail.com
 
