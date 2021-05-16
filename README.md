@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohdhaseen
 - 👀 I like programming and software development.
 - 🌱 I’m currently working on android applications. 
-- 💞️ I’m looking to freelance adnroid application.
+- 💞️ I’m available to collaborate in adnroid project.
 - 📫 How to reach me: mohdhaseen99@gmail.com
 
 <!---
